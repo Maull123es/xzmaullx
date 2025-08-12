@@ -14,13 +14,13 @@ Fitur ini cocok untuk pembelajaran **OSINT (Open Source Intelligence)** secara e
 
 ## 📂 Struktur Folder
 xzmaullx/
-├── main.py          
-├── requirements.txt 
-├── logs/            
+├── main.py 
+├── requirements.txt
+├── logs/ 
 ├── README.md
 ├── .gitignore
 ├── output.csv
-├── LICENSE        
+├── LICENSE
 └── ascii_logo.png
 
 ## 🚀 Cara Menjalankan
