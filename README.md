@@ -26,7 +26,7 @@ xzmaullx/
 ## 🚀 Cara Menjalankan
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/xytrondoll_xz/xzmaullx.git
+   git clone https://github.com/Maull123es/xzmaullx.git
    cd xzmaullx
 2. Install library yang dibutuhkan:
    ```bash
